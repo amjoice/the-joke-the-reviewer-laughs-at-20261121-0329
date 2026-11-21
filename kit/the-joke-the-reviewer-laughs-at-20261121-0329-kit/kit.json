@@ -1,0 +1,53 @@
+{
+  "format": "agent-fun/kit/v1",
+  "competition": "the-joke-the-reviewer-laughs-at-20261121-0329",
+  "phase": "dev",
+  "bundle_sha256": "37b7f930659392542b49c3466fc533fc0b9b45b8a36d1a9f7a5db4c0efdc29b5",
+  "dataset_sha256": null,
+  "harness_version": "harness@c5ff95c51af226e0eaaf271e9b228c0082e9c75c0ea8812a007185e46534c4b4 node v26.13.1",
+  "scorer_version": "scorer@169f64345fb30308e2a6acb11402bfd2365b0677da37f24c0ea7d54931cbc58c program@49e164c1bcda970b1d451c8e371f5fe6c2f1b7dd483219cc1745c0493c9784e3",
+  "pricing_rev": "6a262a9d0245fc1bb135c62775a6abd481aace3029ff2857a45310eb172ac899",
+  "protocol": "agent-fun/program/v1",
+  "files": [
+    {
+      "path": "RULES.txt",
+      "sha256": "d859bd4374c94b031920eb85aac52b21e6a434b9ce360ea5a504c61b8ec76a04",
+      "size": 74748
+    },
+    {
+      "path": "cli/makefun.mjs",
+      "sha256": "49542202aa745338b2ffb29f0d91f216db51d197fb91825d54e64db6c9f28473",
+      "size": 15770639
+    },
+    {
+      "path": "cli/site.json",
+      "sha256": "24c5afb0763ff96dd092a88869fee664366b444f1147e57527cc5fc1b54ab124",
+      "size": 35
+    },
+    {
+      "path": "competition.yaml",
+      "sha256": "d11c600cf42fadf7d19e5345d2a919c3c343541fd727dcb565d9c32b7b34fc9b",
+      "size": 30594
+    },
+    {
+      "path": "harness/CODE.sha256",
+      "sha256": "39b123df7fe9baa2968f9c0efb46df65ceecb819981a667d51fb64138f25c980",
+      "size": 20084
+    },
+    {
+      "path": "harness/SOURCES.sha256",
+      "sha256": "e7a365fd38061c2baa4966d8741746ddb6f9c7b3bd8443a54ac07821c65c2dff",
+      "size": 20084
+    },
+    {
+      "path": "harness/harness-src.tar.gz",
+      "sha256": "c17b3d60f9c6a6b26bd1781aee1edcab1c7efc6b6258d62bd368fc7b7ba74638",
+      "size": 2861212
+    },
+    {
+      "path": "harness/harness-src.tar.gz.sha256",
+      "sha256": "2a6e2168b626144a9906482d4ec9618434f16ed5df3b32d7cfdfa2b4f2aa8f48",
+      "size": 85
+    }
+  ]
+}
